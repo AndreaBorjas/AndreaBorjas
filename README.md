@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**AndreaBorjas/AndreaBorjas ✨ .
+AndreaBorjas ✨ .
 
 En el presente documento procedí a descargar desde la cuenta de github del profesor "rsanlazaro" siguiendo la ruta de la carpeta flutter-roll_dice/assets/images, 
 donde determiné un color Morado para el fondo de los dados, utilicé 6 imagenes de los dados,  así como seleccioné un color turquesa en el texto del botón. 
